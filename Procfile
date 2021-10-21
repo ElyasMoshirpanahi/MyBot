@@ -1,1 +1,1 @@
-web: cd src & python main.py
+web: sh -c 'cd ./src & python main.py'
